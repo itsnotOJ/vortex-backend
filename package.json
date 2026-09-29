@@ -33,6 +33,7 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.1142.0",
     "@bull-board/api": "^9.10.1",
     "@bull-board/express": "^9.10.1",
     "@nestjs/common": "^11.1.28",
